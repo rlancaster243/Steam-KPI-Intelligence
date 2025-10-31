@@ -1,0 +1,24 @@
+column,dtype,non_null,missing_pct,n_unique
+Unnamed: 0,int64,82500,0.0,82500
+appid,Int64,82500,0.0,82500
+name,object,82486,0.02,81899
+developer,object,82204,0.36,52074
+publisher,object,81908,0.72,45876
+score_rank,float64,44,99.95,3
+positive,int64,82500,0.0,5674
+negative,int64,82500,0.0,2818
+userscore,float64,81948,0.67,5927
+owners,object,82500,0.0,13
+average_forever,int64,82500,0.0,3083
+average_2weeks,int64,82500,0.0,914
+median_forever,int64,82500,0.0,2550
+median_2weeks,int64,82500,0.0,908
+price,float64,82472,0.03,624
+initialprice,float64,82479,0.03,357
+discount,float64,82479,0.03,85
+ccu,int64,82500,0.0,1104
+average_forever_hours,float64,82500,0.0,3083
+average_2weeks_hours,float64,82500,0.0,914
+median_forever_hours,float64,82500,0.0,2550
+median_2weeks_hours,float64,82500,0.0,908
+reviews_total,int64,82500,0.0,6062

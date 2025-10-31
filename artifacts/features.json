@@ -1,0 +1,10 @@
+{
+  "features": [
+    "average_2weeks_hours",
+    "average_forever_hours",
+    "discount",
+    "price",
+    "price_delta",
+    "votes_total"
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "threshold_logistic": 0.75,
+  "threshold_gbc": 0.3
+}
